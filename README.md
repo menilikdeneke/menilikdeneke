@@ -1,4 +1,8 @@
-## Hi there 👋
+## Menilik Deneke
+
+Undergraduate Computer Science Student
+
+Aspiring Software Developer
 
 <!--
 **menilikdeneke/menilikdeneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
