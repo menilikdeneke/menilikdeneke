@@ -2,7 +2,7 @@
 
 Undergraduate Computer Science Student
 
-Aspiring Software Developer
+Aspiring Software Developer with interests in Python and Java.
 
 <!--
 **menilikdeneke/menilikdeneke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
